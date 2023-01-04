@@ -2,7 +2,6 @@ package com.telerikacademy.furniture.models;
 
 import com.telerikacademy.furniture.models.contracts.Table;
 import com.telerikacademy.furniture.models.enums.MaterialType;
-import com.telerikacademy.furniture.utils.ValidationHelpers;
 
 import static com.telerikacademy.furniture.utils.ValidationHelpers.*;
 import static java.lang.String.*;
